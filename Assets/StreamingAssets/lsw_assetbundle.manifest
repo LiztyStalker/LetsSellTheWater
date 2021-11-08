@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3905635675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10f5c6345f734291716277c3cac4f813
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 527606b32568196eafb9996a87c8a8e0
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Data/Facility/Facility.csv
+- Assets/Resources/Sound/Effect/15_FEVER.wav
+- Assets/Resources/Sound/Effect/5_COST.wav
+- Assets/Resources/Sound/Effect/2_OK.wav
+- Assets/Resources/Data/Customer/Customer.csv
+- Assets/Resources/Data/Employee/Employee.csv
+- Assets/Resources/Sound/Effect/14_PAGE.wav
+- Assets/Resources/Sound/Effect/6_SELL.wav
+- Assets/Resources/Sound/BGM/2_FEVERBGM.mp3
+- Assets/Resources/Sound/Effect/10_PINECOLA.wav
+- Assets/Resources/Sound/BGM/1_PLAYBGM.mp3
+- Assets/Resources/Sound/Effect/4_CANCEL.wav
+- Assets/Resources/Data/Research/Research.csv
+- Assets/Resources/Sound/Effect/13_SLEEP.wav
+- Assets/Resources/Sound/Effect/11_EXTEND.wav
+- Assets/Resources/Sound/Effect/7_SUCCESS.wav
+- Assets/Resources/Sound/Effect/3_WARNING.wav
+- Assets/Resources/Sound/Effect/9_ALARM.wav
+- Assets/Resources/Sound/Effect/12_RSUCCESS.wav
+- Assets/Resources/Sound/Effect/0_NONE.wav
+- Assets/Resources/Sound/Effect/8_ENERGY.wav
+- Assets/Resources/Sound/Effect/1_INFOR.wav
+- Assets/Resources/Sound/BGM/0_MAINBGM.mp3
+Dependencies: []
